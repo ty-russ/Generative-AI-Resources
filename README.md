@@ -1,4 +1,4 @@
-# Generative AI Resources Repository
+# Generative AI Resource Repository
 
 Welcome to the **Generative AI Resources Repository**! 🚀
 
